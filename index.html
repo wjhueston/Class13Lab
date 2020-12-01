@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="js">
+
+<head>
+    <title>Library: JavaScript Camp</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+          integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <h1>Gradebook App</h1>
+    <form>
+        <label for="firstName">First Name</label><br>
+        <input id="firstName" type="text" required="required"/><br>
+        <label for="lastName">Last Name</label><br>
+        <input id="lastName" type="text" required="required"/><br>
+        <label for="pointsEarned">Points Earned</label><br>
+        <input id="pointsEarned" type="number" required="required"/><br>
+        <label for="pointsPossible">Points Possible</label><br>
+        <input id="pointsPossible" type="number" required="required"/><br><br>
+        <button class="btn">Submit</button>
+    </form><br>
+    <table>
+        <tr>
+            <th>Student Fields</th>
+            <th>Student Values</th>
+        </tr>
+        <tr>
+            <td>First Name</td>
+            <td><span id="firstOutput"></span></td>
+        </tr>
+        <tr>
+            <td>Last Name</td>
+            <td><span id="lastOutput"></span></td>
+        </tr>
+        <tr>
+            <td>Percent Score</td>
+            <td><span id="percentScore"></span></td>
+        </tr>
+        <tr>
+            <td>Letter Score</td>
+            <td><span id="letterScore"></span></td>
+        </tr>
+    </table>
+
+
+
+
+</body>
+
+<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.1/dist/jquery.validate.js"></script>
+<script src="code.js"></script>
+
+</html>
