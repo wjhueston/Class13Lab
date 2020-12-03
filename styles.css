@@ -18,3 +18,9 @@ th{
 td{
     border: 1px black solid;
 }
+#sortbyName{
+    display: none;
+}
+#sortbyPercent{
+    display: none;
+}

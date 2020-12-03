@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92a0ee28-192e-43cf-9f9e-44a64e22e91c" name="Default Changelist" comment="" />
+    <list default="true" id="92a0ee28-192e-43cf-9f9e-44a64e22e91c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,12 +16,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML jQuery Template" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1l23oDfM1pLb3S4SN7LirCxrrcC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,11 +44,46 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606781532129</updated>
-      <workItem from="1606781533162" duration="3773000" />
+      <workItem from="1606781533162" duration="5821000" />
+      <workItem from="1606953978069" duration="8548000" />
     </task>
+    <task id="LOCAL-00001" summary="Changed a Sentence">
+      <created>1606785472256</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606785472256</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changed a Sentence" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed a Sentence" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606962077402">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606962077402" />
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1606785471832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1606785471832" />
+    <state x="836" y="417" key="Github.ShareDialog" timestamp="1606785428142">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="836" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606785428142" />
+    <state x="762" y="225" key="Github.UntrackedFilesDialog" timestamp="1606785432826">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="762" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606785432826" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1606785476056">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606785476056" />
   </component>
 </project>
